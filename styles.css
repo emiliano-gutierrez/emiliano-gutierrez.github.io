@@ -32,8 +32,7 @@ h2 { margin: 0; font-size: 1.3125rem; line-height: 1.4; font-weight: 650; letter
 .profile h2 { margin-bottom: 20px; }
 .profile p { margin: 0 0 16px; }
 .profile p:last-child { margin-bottom: 0; }
-.section-heading { display: flex; align-items: baseline; gap: 14px; margin-bottom: 26px; }
-.section-number { color: var(--blue); font-size: .8125rem; font-variant-numeric: tabular-nums; }
+.section-heading { display: flex; align-items: baseline; margin-bottom: 26px; }
 h3 { margin: 0; font-size: 1.0625rem; line-height: 1.5; font-weight: 600; }
 .research-list article + article { margin-top: 22px; }
 .research-list h3 { margin-bottom: 5px; }
@@ -79,7 +78,7 @@ footer { display: flex; justify-content: space-between; gap: 20px; border-top: 1
   .profession { margin-bottom: 18px; }
   .affiliations { margin-bottom: 20px; }
   .content section { margin-bottom: 30px; padding-bottom: 32px; }
-  .section-heading { gap: 10px; margin-bottom: 22px; }
+  .section-heading { margin-bottom: 22px; }
   .publications li { gap: 13px; }
   .project-list article, .teaching-list article { grid-template-columns: 1fr; gap: 5px; }
   .item-meta span { display: inline; }
