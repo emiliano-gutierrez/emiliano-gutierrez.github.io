@@ -88,3 +88,6 @@ footer { display: flex; justify-content: space-between; gap: 20px; border-top: 1
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 @media print { .topbar, .skip-link { display: none; } .page { width: 100%; } .layout { display: block; padding: 0; } .identity { position: static; padding: 0; margin-bottom: 2rem; } .institutional-photo { width: 90px; } h1 br { display: none; } .content section { break-inside: avoid; margin-bottom: 1.5rem; padding-bottom: 1rem; } .doi-label { display: inline; color: var(--muted); } .publications li, .project-list article, .teaching-list article { break-inside: avoid; } }
+.education .thesis { margin-top: 7px; line-height: 1.55; }
+.education .thesis a { color: var(--ink); text-decoration: none; }
+.education .thesis a:hover { color: var(--blue); text-decoration: underline; }
