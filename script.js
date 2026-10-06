@@ -49,7 +49,7 @@ const translations = {
     projectNetworksTitle: 'Three applications of social network analysis in Argentina: historical lineages, online life, and kinship and conflict networks in a Mennonite colony',
     projectTandilTitle: 'Online Consumer Price Index (CPI) for Tandil',
     projectTandilInstitution: 'Young Researchers Program (JOVIN) · Universidad Nacional del Centro de la Provincia de Buenos Aires, Argentina',
-    publicationsTitle: 'Last publications', allPublications: 'More publications on ORCID',
+    publicationsTitle: 'Recent publications', allPublications: 'More publications on ORCID',
     teachingTitle: 'Teaching', teachingCurrent: '2024–present',
     teachingSystems: 'Economic Systems', teachingSystemsRole: 'Assistant Lecturer · Universidad Nacional del Sur, Argentina',
     teachingEconometrics: 'Econometrics I and II', teachingEconometricsRole: 'Teaching Assistant · Universidad Nacional del Sur, Argentina',
